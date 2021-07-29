@@ -45,7 +45,7 @@
 * [7. 如何优雅地亏钱](chapter-7/README.md)
     * [7.1 亏损的本金来自于何方](chapter-7/seciont1.md)
     * [7.2 亏钱的流派选择](chapter-7/seciont2.md)
-    * [7.3 如何选择亏损的标的](chapter-7/section3.md)
+    * [7.3 如何选择亏损的标的：抄作业的实践](chapter-7/section3.md)
     * [7.4 不全亏在一个篮子里，那么亏在几个？](chapter-7/section4.md)
     * [7.5 买入卖出的时机](chapter-7/section5.md)
     * [7.6 如何在亏钱时继续持股](chapter-7/section6.md)
