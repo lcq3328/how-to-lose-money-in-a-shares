@@ -13,6 +13,7 @@
     * [1.3 骗子横行，庄家遍地](chapter-1/section3.md)
     * [1.4 不能做空的市场不是好市场？](chapter-1/section4.md)
     * [1.5 中国的好公司都跑别处上市了](chapter-1/section5.md)
+    * [1.6 A股我来了](chapter-1/section6.md)
 * [2. 一万种亏钱的姿势（操作篇）](chapter-2/README.md)
     * [2.1 趋势小王子的各种死法](chapter-2/section1.md)
     * [2.2 涨停敢死队](chapter-2/section2.md)
