@@ -64,7 +64,7 @@
     * [9.2 只要作业抄的好](chapter-9/section2.md)
     * [9.3 风险风险风险](chapter-9/section3.md)
     * [9.4 没有人性](chapter-9/section4.md)
-    * [9.5 不忘初心，喜新厌旧](chapter-9/section5.md)
+    * [9.5 不忘初心](chapter-9/section5.md)
 
 * [结束语](ending/Ending.md)
 * [免责声明](ending/Disclaimer.md)
