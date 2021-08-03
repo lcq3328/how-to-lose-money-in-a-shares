@@ -27,7 +27,7 @@
     * [3.4 跌出斯德哥尔摩](chapter-3/section4.md)
     * [3.5 一阳改三观](chapter-3/section5.md)
     * [3.6 价值投资者的虚名](chapter-3/section6.md)
-* [4. 一万种亏钱的姿势（公司篇）](chapter-4/README.md)
+* [4. 一万种亏钱的姿势（企业篇）](chapter-4/README.md)
     * [4.1 低PE的陷阱](chapter-4/section1.md)
     * [4.2 成长股不成长了](chapter-4/section2.md)
     * [4.3 纸上利润](chapter-4/section3.md)
