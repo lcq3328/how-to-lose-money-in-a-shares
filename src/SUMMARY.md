@@ -59,10 +59,6 @@
     * [8.3 风险风险风险](chapter-8/section3.md)
     * [8.4 没有人性](chapter-8/section4.md)
     * [8.5 不忘初心](chapter-8/section5.md)
-* [9. 股市万象](chapter-8/README.md)
-    * [9.1 风口、概念、赛道](chapter-9/section1.md)
-    * [9.2 市场风格](chapter-9/section2.md)
-    * [9.3 北上资金](chapter-9/section3.md)
 
 * [结束语](ending/Ending.md)
 * [免责声明](ending/Disclaimer.md)
